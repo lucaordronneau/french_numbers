@@ -34,7 +34,7 @@ Algorithm, Architecture and Code Cleaning:  ~ 2h15
 Unit Test, GitHub, README: ~ 20 min
 
 ### Copilot, LLMs (ChatGPT)
-Prompt:
+Prompts:
 
 - Provide unit tests for this function (function convert_to_french)
 - Provide the README structure for a project
