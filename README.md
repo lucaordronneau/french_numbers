@@ -8,9 +8,9 @@ Before you can use the converter, you'll need to install it. This section guides
 
 ### Setup
 ```bash
-git clone https://github.com/yourusername/french_numbers_project.git
+git clone https://github.com/lucaordronneau/french_numbers.git
 
-cd french_numbers_converter
+cd french_numbers
 
 pip install -r requirements.txt
 ```
