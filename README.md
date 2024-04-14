@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ### Usage
 ```python
-from french_numbers import FrenchNumberConverter
+from french_numbers_converter import FrenchNumberConverter
 
 converter = FrenchNumberConverter()
 print(converter.convert_to_french(123))  # Outputs: cent-vingt-trois
