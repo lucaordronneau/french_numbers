@@ -39,4 +39,5 @@ Prompts:
 - Provide unit tests for this function (function convert_to_french)
 - Provide the README structure for a project
 - How to decompose a number recursively starting by thousands
+- Rename variables and functions names to be pro
 
